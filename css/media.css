@@ -1,0 +1,427 @@
+@media (max-width: 1250px) {
+  .add_block {
+    margin: auto;
+  }
+
+  .add_but {
+    margin: 35px auto 0;
+  }
+
+  .price__container {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .another__container {
+    justify-content: center;
+  }
+
+  .another__block {
+    max-width: 240px;
+    width: 100%;
+    margin: 20px;
+    justify-content: center;
+  }
+
+  .header__head {
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .ml-70 {
+    margin-left: 0;
+  }
+
+  .logo_dis {
+    margin: 0 auto;
+    text-align: center;
+  }
+
+
+}
+
+@media (max-width: 950px) {
+
+  .header {
+    padding: 20px 20px 260px;
+  }
+
+  .header__price {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .price_container {
+    align-items: center;
+  }
+
+  .ml-70, .header__navigation {
+    margin: auto;
+  }
+
+  .header__body {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .header__slide {
+    margin: 30px auto 0;
+  }
+
+  .order__form {
+    max-width: 410px;
+    justify-content: space-between;
+  }
+
+  .form_submit {
+    margin: 20px auto 0;
+  }
+
+  .place__element {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: auto;
+    margin: 0 20px 150px;
+  }
+
+  .place {
+    flex-direction: column;
+  }
+
+  .place__info {
+    margin: 150px auto 0;
+  }
+
+  .footer {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .footer__logo {
+    margin: 50px auto;
+  }
+
+  .footer__menu {
+    text-align: center;
+  }
+
+  .item_item {
+    margin: auto;
+  }
+
+  .footer__contacts {
+    text-align: center;
+  }
+
+  .soc_container {
+    justify-content: center;
+  }
+
+  .header__navigation_i {
+    display: none;
+  }
+
+  .nav_list_i {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .header_burger {
+    display: block;
+
+    order: -1;
+  }
+
+  .header_phone {
+    width: 42px;
+    height: 42px;
+    display: block;
+
+    background-image: url(../img/phone.png);
+  }
+
+  .add_block_i {
+    display: none;
+  }
+
+  .header__logotype {
+    margin: 0 20px;
+  }
+
+  .slide_btns {
+    display: none;
+  }
+
+  .arend_btn_i {
+    margin: 0 auto;
+  }
+
+  .price_container_index {
+    display: none;
+  }
+
+  .header__body {
+    margin-top: 0;
+  }
+
+  .aerodumbay {
+    flex-direction: column;
+
+    padding-bottom: 50px;
+  }
+
+  .aero_info {
+    margin-top: 0;
+  }
+
+  .aero_container {
+    width: 280px;
+    height: 280px;
+
+    order: -1;
+  }
+
+  .aero_container img {
+    width: 330px;
+    height: 330px;
+  }
+
+  .aero_heading {
+    margin-left: 20px;
+
+    font-size: 26px;
+  }
+
+  .aero_text {
+    margin-left: 20px;
+
+    font-size: 18px;
+  }
+
+  .aero_img_left {
+    margin-left: -12px;
+  }
+
+  .aerodumbay_l {
+    align-items: flex-end;
+  }
+
+  .ml_170 {
+    margin-left: -46px;
+  }
+
+  .aero_heading_l {
+    margin-left: 70px;
+  }
+
+  .aero_text_l {
+    margin-left: 170px;
+  }
+
+  .aero_info {
+    margin-left: 0;
+    margin-top: 50px;
+  }
+
+  .arend_btn_i {
+    margin-top: 35px;
+  }
+  .mr_210 {
+    margin-right: 0;
+  }
+
+  .aero__container_i {
+    margin-top: 100px;
+    margin-right: auto;
+  }
+
+  .footer__menu, .footer_net {
+    display: none;
+  }
+
+  .footer_soc_i {
+    display: block;
+
+    margin-bottom: 60px;
+  }
+
+  .footer_soc_i a {
+    margin: 0 10px;
+  }
+
+  .nav_add_f::before {
+    left: 100px;
+    top: -30px;
+  }
+
+  .nav_tel_f::before {
+    left: 60px;
+    top: -30px;
+  }
+
+  .mb-20 {
+    margin-bottom: 45px;
+  }
+
+  .header__head {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  .nav_list_i .nav_item {
+    width: 190px;
+    min-width: 190px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #df0024;
+
+    color: #fff;
+  }
+
+  .l-act {
+    color: #fff;
+  }
+
+  .form_input, .info_input, .input_arrows {
+    width: 100%;
+  }
+
+  .order__form {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .dop_heading {
+    margin-top: 50px;
+  }
+
+  .body_container {
+    display: none;
+  }
+
+  .address {
+    background-size: contain;
+  }
+
+  .slider_text_m {
+    display: block;
+  }
+
+  .slider_text{
+    display: none;
+  }
+
+  .soc_img {
+  	width: 71px;
+  	height: 70px;
+  }
+}
+
+@media (max-width: 805px) {
+
+  .logo_dis {
+    text-align: center;
+    margin: auto;
+  }
+}
+
+@media (max-width: 760px) {
+  .header {
+    padding-bottom: 160px;
+  }
+}
+
+
+@media (max-width: 580px) {
+  .header {
+    min-height: 50vh;
+
+    padding-bottom: 60px;
+  }
+
+  .ad_list {
+    justify-content: center;
+  }
+
+  .price__heading {
+    font-size: 22px;
+    text-align: center;
+  }
+
+  .price_info {
+    margin-bottom: 30px;
+  }
+
+  .info_time {
+    margin-bottom: 15px;
+  }
+
+  .picnic__info {
+    background-color: #ffffffa1;
+  }
+
+  .another_text {
+    margin: auto;
+  }
+
+  .another__block {
+    max-width: 240px;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .header__logotype {
+    min-width: 170px;
+    width: auto;
+  }
+
+  .dop_heading {
+    font-size: 40px;
+  }
+
+  .logo_name {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .address_address {
+    font-size: 16px;
+  }
+
+  .address_container {
+    margin-right: 0;
+    margin-top: 150px;
+  }
+
+  .address_tel {
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 951px) {
+  .header__navigation_i_mob {
+    display: none;
+  }
+}
+
+/* @media (max-width: 950px) and (min-width: 750px) {
+  .aerodumbay_media {
+    margin-top: 130px;
+  }
+} */
